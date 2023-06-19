@@ -1,0 +1,26 @@
+Hello this is Anwar Shah
+
+Enumerating objects: 11, done.
+Counting objects: 100% (11/11), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (6/6), 832 bytes | 832.00 KiB/s, done.
+Total 6 (delta 2), reused 0 (delta 0), pack-reused 0
+
+Hello this is Anwar Shah
+
+Enumerating objects: 11, done.
+Counting objects: 100% (11/11), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (6/6), 832 bytes | 832.00 KiB/s, done.
+Total 6 (delta 2), reused 0 (delta 0), pack-reused 0
+
+Hello this is Anwar Shah
+
+Enumerating objects: 11, done.
+Counting objects: 100% (11/11), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (6/6), 832 bytes | 832.00 KiB/s, done.
+Total 6 (delta 2), reused 0 (delta 0), pack-reused 0
