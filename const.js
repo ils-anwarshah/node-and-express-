@@ -1,3 +1,8 @@
-const Uri = "mongodb+srv://ashah:Anwar@786@cluster0.r7gqd68.mongodb.net/?retryWrites=true&w=majority"
+// const env  = require('dotenv')
 
-module.exports = {Uri}
+// 
+const dotEnv = require('dotenv');
+// const responseMessages = require("../utils/responseMessages");
+dotEnv.config();
+
+console.log(process.env.URI);
